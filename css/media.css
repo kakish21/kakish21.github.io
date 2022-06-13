@@ -1,0 +1,27 @@
+@media all and (min-width: 1150px){
+	.trsprnt:hover{
+		background-color: green;
+		border-color: transparent;
+	}
+	.green:hover{
+		border: 2px solid;
+		background-color: transparent;
+	}
+	.nav-linc:hover{
+		background-color: black;
+		color: white;
+	}
+}
+@media all and (max-width: 768px){
+	.nav-wrapper{
+		overflow: auto;
+		white_space: nowrap;
+	}
+	.logo, .search-wrapper, .topav{
+		display: inline-block;
+	}
+	.section-subtitle{
+		width: 85%;
+	}
+	.second-item 
+}
